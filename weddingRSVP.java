@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class WeddingRSVPGUI {
+public class WeddingRSVP {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Wedding RSVP");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -100,4 +100,3 @@ public class WeddingRSVPGUI {
         frame.setVisible(true);
     }
 }
-
